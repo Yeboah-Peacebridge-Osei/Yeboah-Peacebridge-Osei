@@ -1,18 +1,27 @@
+# Hi there, I'm Peacebridge👋
 
+Welcome to my GitHub! I’m passionate about building impactful software and learning new technologies every day.
 
-# Hi, I'm Peacebridge 👋🏾💡
+## 👨‍💻 About Me
+- 🔭 I’m currently working on: [TalkItOut - A live video journalling application for wellbeing]
+- 🌱 I’m learning: [Swift and SwiftUI, Docker, working with AI Agents]
+- 👯 I’m looking to collaborate on: Open source and innovative projects
+- 🤔 I’m looking for help with: [Something you’d like help with, if any]
+- 💬 Ask me about: Software development, Philosophy, Neuroscience, or anything tech!
+- 📫 How to reach me: yeboahpeacebridge@gmail.com or message me on linkedin, link below
+- ⚡ Fun fact: I am the second of four boys - always fun growing up with boys
 
-Software Engineer, Problem Solver & Community Builder
+## 🛠️ Languages and Tools
+![Languages and Tools](https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,git,github,linux,docker,aws)
 
-I'm a software engineer who is passionate about making technology accessible, creating tools that empower people, and building strong tech communities. I enjoy working with technologies like JavaScript, Python, and cloud platforms. My mission is to use software to solve real-world problems and inspire others to learn and grow in tech.
+## 📈 GitHub Stats
+![Peacebridge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeboah-Peacebridge-Osei&show_icons=true&theme=default)
 
-In recent years, I've contributed to several open-source projects, mentored aspiring developers, and spoken at local meetups. I believe in the power of collaboration and continuous learning.
-
-**Find me around the web 🌍:**
-
-- Sharing insights on [LinkedIn](https://linkedin.com/in/peacebridge1/) 💼
-- Contributing to open source on [GitHub](https://github.com/Yeboah-Peacebridge-Osei) 🚀
-- Personal website: [peacebridge.dev](https://peacebridge.dev) 🌐
+## 🤝 Connect with Me
+- [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
+- yeboahpeacebridge@gmail.com
+- [Personal Website]([https://YOUR-WEBSITE.com](https://yeboah-peacebridge-osei.github.io/MyPersonalwebsite/))
 
 ---
-*Building tech to elevate people. Always learning, always sharing.*
+
+Thanks for visiting my profile!
