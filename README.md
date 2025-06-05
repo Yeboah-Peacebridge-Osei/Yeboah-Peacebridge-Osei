@@ -1,8 +1,7 @@
-![image1](49FFF0A5-78C0-4A5E-A92B-9E2866C73A77_1_201_a.JPEG)
+
 
 # Hi, I'm Peacebridge 👋🏾💡
 
-**PEACEBRIDGE**  
 Software Engineer, Problem Solver & Community Builder
 
 I'm a software engineer who is passionate about making technology accessible, creating tools that empower people, and building strong tech communities. I enjoy working with technologies like JavaScript, Python, and cloud platforms. My mission is to use software to solve real-world problems and inspire others to learn and grow in tech.
